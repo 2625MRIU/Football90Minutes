@@ -76,18 +76,6 @@ main.container {
     color: var(--brand-blue);
     font-weight: 800;
 }
-
-.pill-note {
-    background: linear-gradient(90deg, rgba(255, 45, 85, 0.06), rgba(255, 246, 90, 0.03));
-    padding: .25rem .5rem;
-    border-radius: 999px;
-    font-weight: 700;
-    color: var(--accent-red);
-    font-size: .85rem;
-    box-shadow: 0 0 8px rgba(255, 45, 85, 0.04);
-}
-
-/* Stats cards */
 .stat-cards {
     display: flex;
     gap: .6rem;
